@@ -16,12 +16,33 @@ DSA-Python-Java/
       day1_max_number.py
     java/
       Day1MaxNumber.java
+  Day_2/
+    Day2.png
+    DSA_Day_2.pdf
+    README.md
+    python/
+      day2_conditions.py
+      day2_even_odd.py
+      day2_pass_fail.py
+      day2_voting_eligibility.py
+      day2_largest_two.py
+      day2_positive_negative_zero.py
+    java/
+      Day2Conditions.java
+      Day2EvenOdd.java
+      Day2PassFail.java
+      Day2VotingEligibility.java
+      Day2LargestTwo.java
+      Day2PositiveNegativeZero.java
 ```
 
 ## Day-wise Learning Journey
 
 - [Day 1 - Programming Basics, Complexity, Constraints](./Day_1/README.md)
 - Day 1 image (`Day1.png`) is attached as the first page of `Dsa_Day_1.pdf`
+- [Day 2 - Conditions, Comparison Operators, Logical Operators](./Day_2/README.md)
+- Day 2 image (`Day2.png`) is attached as the first page of `DSA_Day_2.pdf`
+- Day 2 includes a LeetCode beginner practice plan focused on condition-based problems
 
 ## Day 1 Highlights
 
