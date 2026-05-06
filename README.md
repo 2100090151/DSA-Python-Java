@@ -34,6 +34,24 @@ DSA-Python-Java/
       Day2VotingEligibility.java
       Day2LargestTwo.java
       Day2PositiveNegativeZero.java
+  Day_3/
+    Day3.png
+    DSA_Day_3.pdf
+    README.md
+    python/
+      day3_loops.py
+      day3_print_numbers.py
+      day3_even_numbers.py
+      day3_sum_natural.py
+      day3_factorial.py
+      day3_count_digits.py
+    java/
+      Day3Loops.java
+      Day3PrintNumbers.java
+      Day3EvenNumbers.java
+      Day3SumNatural.java
+      Day3Factorial.java
+      Day3CountDigits.java
 ```
 
 ## Day-wise Learning Journey
@@ -43,6 +61,9 @@ DSA-Python-Java/
 - [Day 2 - Conditions, Comparison Operators, Logical Operators](./Day_2/README.md)
 - Day 2 image (`Day2.png`) is attached as the first page of `DSA_Day_2.pdf`
 - Day 2 includes a LeetCode beginner practice plan focused on condition-based problems
+- [Day 3 - Loops, Loop Complexity, and Loop-Based Problems](./Day_3/README.md)
+- Day 3 includes beginner-friendly LeetCode links for loop-based practice
+- Day 3 image (`Day3.png`) is attached as the first page of `DSA_Day_3.pdf`
 
 ## Day 1 Highlights
 
