@@ -52,6 +52,24 @@ DSA-Python-Java/
       Day3SumNatural.java
       Day3Factorial.java
       Day3CountDigits.java
+  Day_4/
+    Day4.png
+    DSA_Day_4.pdf
+    README.md
+    python/
+      day4_patterns.py
+      day4_square_star.py
+      day4_right_triangle_star.py
+      day4_number_triangle.py
+      day4_reverse_triangle_star.py
+      day4_square_number.py
+    java/
+      Day4Patterns.java
+      Day4SquarePattern.java
+      Day4RightTrianglePattern.java
+      Day4NumberTriangle.java
+      Day4ReverseTriangle.java
+      Day4SquareNumberPattern.java
 ```
 
 ## Day-wise Learning Journey
@@ -64,6 +82,9 @@ DSA-Python-Java/
 - [Day 3 - Loops, Loop Complexity, and Loop-Based Problems](./Day_3/README.md)
 - Day 3 includes beginner-friendly LeetCode links for loop-based practice
 - Day 3 image (`Day3.png`) is attached as the first page of `DSA_Day_3.pdf`
+- [Day 4 - Pattern Problems and Nested Loops](./Day_4/README.md)
+- Day 4 includes nested-loop pattern practice in Python and Java
+- Day 4 image (`Day4.png`) is attached as the first page of `DSA_Day_4.pdf`
 
 ## Day 1 Highlights
 
